@@ -1,0 +1,11 @@
+C:\Users\MCA\source\repos\NoHomoSapiens\NoHomoSapiens\bin\Debug\netcoreapp2.1\NoHomoSapiens.deps.json
+C:\Users\MCA\source\repos\NoHomoSapiens\NoHomoSapiens\bin\Debug\netcoreapp2.1\NoHomoSapiens.runtimeconfig.json
+C:\Users\MCA\source\repos\NoHomoSapiens\NoHomoSapiens\bin\Debug\netcoreapp2.1\NoHomoSapiens.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\NoHomoSapiens\NoHomoSapiens\bin\Debug\netcoreapp2.1\NoHomoSapiens.dll
+C:\Users\MCA\source\repos\NoHomoSapiens\NoHomoSapiens\bin\Debug\netcoreapp2.1\NoHomoSapiens.pdb
+C:\Users\MCA\source\repos\NoHomoSapiens\NoHomoSapiens\obj\Debug\netcoreapp2.1\NoHomoSapiens.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\NoHomoSapiens\NoHomoSapiens\obj\Debug\netcoreapp2.1\NoHomoSapiens.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\NoHomoSapiens\NoHomoSapiens\obj\Debug\netcoreapp2.1\NoHomoSapiens.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\NoHomoSapiens\NoHomoSapiens\obj\Debug\netcoreapp2.1\NoHomoSapiens.AssemblyInfo.cs
+C:\Users\MCA\source\repos\NoHomoSapiens\NoHomoSapiens\obj\Debug\netcoreapp2.1\NoHomoSapiens.dll
+C:\Users\MCA\source\repos\NoHomoSapiens\NoHomoSapiens\obj\Debug\netcoreapp2.1\NoHomoSapiens.pdb
